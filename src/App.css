@@ -1,3 +1,80 @@
 .HorizontalMargin {
     margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.ContBody {
+    background-color: lightgray;
+}
+
+.ContentCard {
+    background-color: white;
+    border-radius: 1rem;
+    box-shadow: 1rem 1rem 1rem darkgray;
+    margin-left: 1rem;
+}
+
+.GoodMargin {
+    margin: 1rem;
+}
+
+.RaamatNimekirjas {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.6rem;
+    margin-bottom: 1rem;
+    background-color: lightgray;
+    height: auto;
+    border-radius: 1rem;
+    letter-spacing: 0.1rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.RaamatNimekirjas:hover, .RaamatNimekirjas:active {
+    border: transparent;
+    border-right: 1rem solid darkgreen;
+    background-color: lightgray;
+}
+
+.Raamat {
+    margin: 2rem;
+}
+
+.RaamatKujundus {
+    width: 15rem;
+    height: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.RaamatKujundusInput {
+    width: 5rem;
+    height: 5rem;
+}
+
+.RaamatAndmestik {
+    text-align: center;
+}
+
+.RaamatKirjeldus {
+    text-align: justify;
+}
+
+.RaamatKustuta {
+    text-align: right;
+    color: red;
+}
+
+input, button, textarea {
+    resize: none;
+    margin-bottom: 0.25rem;
+}
+
+.form-control {
+    border: solid darkgray;
+}
+
+.Centralize {
+    margin-left: auto;
+    margin-right: auto;
 }

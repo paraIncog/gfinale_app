@@ -24,7 +24,7 @@ const Layout = () => {
                     </ul>
                 </div>
             </nav>
-            <div className="HorizontalMargin">
+            <div className="ContBody HorizontalMargin col-12 margin-center">
                 <Outlet />
             </div>
         </div>
