@@ -1,6 +1,7 @@
 const PostiTeenus = () => {
     return (
-        <div>Postiteenus</div>
+        <div>
+        </div>
     )
 }
 
