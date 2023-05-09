@@ -1,6 +1,13 @@
 const AboutPage = () => {
     return (
-        <div>Minust</div>
+        <div>
+            <div>
+                Minust
+            </div>
+            <div>
+                Andreas 
+            </div>
+        </div>
     )
 }
 

@@ -30,6 +30,7 @@
     font-size: 1.5rem;
     cursor: pointer;
 }
+
 .RaamatNimekirjas:hover, .RaamatNimekirjas:active {
     border: transparent;
     border-right: 1rem solid darkgreen;
