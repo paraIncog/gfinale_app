@@ -5,7 +5,7 @@ const AboutPage = () => {
                 Minust
             </div>
             <div>
-                Andreas 
+                Andreas Selge
             </div>
         </div>
     )
